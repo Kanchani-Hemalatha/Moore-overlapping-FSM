@@ -1,4 +1,4 @@
-# Moore FSM Overlapping Sequence Detector
+# Moore FSM Overlapping Sequence Detector 1010
 
 ## Overview
 This Verilog module implements a **Moore finite state machine (FSM) with overlapping sequence detection**. The FSM detects a specific sequence of input bits (`din`) and outputs `dout = 1` upon detection. 
